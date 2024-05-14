@@ -1,5 +1,8 @@
 # Olamilekan-covid19analysis.github.io
 
+ACCESS THE PROJECT VIEW WITH JUST ONE CLICK : https://app.powerbi.com/view?r=eyJrIjoiYWE4OGM3ZDItMGQxZi00Njk2LTlmZjgtOThkZTZlMjc0YjM3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+
+
 COVID-19 Data Analysis and Visualization Project
 
 
